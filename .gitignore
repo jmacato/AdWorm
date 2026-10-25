@@ -1,0 +1,12 @@
+.DS_Store
+*.onnx
+*.log
+/trainer/target/
+/.cargo-home/
+/.npm-cache/
+/.playwright/
+/.visual/
+/trainer/
+/models/
+/page/
+/docs/
